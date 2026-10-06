@@ -14,7 +14,7 @@ A SQL project (PostgreSQL) that answers 9 business questions about the sales, cu
 
 ## The analyses
 
-All amounts use `subtotal` (before tax and shipping). Details and tables are in [RESULTS.md](http://RESULTS.md).
+All amounts use `subtotal` (before tax and shipping). Details and tables are in RESULTS.md.
 
 | \# | Question | File | Key result |
 | :---- | :---- | :---- | :---- |
